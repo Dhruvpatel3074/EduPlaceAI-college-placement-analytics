@@ -1,0 +1,27 @@
+# Python & Environment
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS & OS artifacts
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor & IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archives & Temporary files
+*.zip
+*.tar.gz
+*.rar
+.ipynb_checkpoints/

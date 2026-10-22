@@ -1,0 +1,25 @@
+StudentID,Gender,Age,Stream,Hostel,SSC_Percentage,HSC_Percentage,CGPA,HistoryOfBacklogs,Internships,Projects_Count,Certifications_Count,Coding_Skills_Score,Aptitude_Test_Score,Soft_Skills_Rating,Hackathons_Attended,Workshops_Attended,Placement_Status,Placement_Tier,Salary_LPA
+STU1000,Male,22,Electrical Engineering,No,61.12,73.3,6.68,0,2,1,1,33.2,77.5,4.9,0,2,0,Not Placed,0.0
+STU1001,Female,22,Mechanical Engineering,No,64.75,73.14,7.29,0,0,1,2,48.6,81.1,3.3,0,4,1,Tier 2 (3.2 - 6.5 LPA),5.12
+STU1002,Female,23,Artificial Intelligence & Data Science,Yes,79.89,87.18,9.03,1,1,6,1,83.9,97.2,3.1,1,1,1,Dream Tier (12+ LPA),13.51
+STU1003,Female,21,Civil Engineering,Yes,64.26,74.16,7.96,0,0,5,2,50.0,85.6,3.1,2,0,1,Tier 1 (6.5 - 12 LPA),9.62
+STU1004,Male,23,Computer Science,No,87.13,69.36,5.61,2,3,2,1,60.9,69.5,4.5,1,1,1,Tier 1 (6.5 - 12 LPA),9.42
+STU1005,Male,21,Computer Science,No,75.29,85.5,5.45,3,1,2,1,46.0,75.0,2.9,2,4,0,Not Placed,0.0
+STU1006,Male,22,Electrical Engineering,Yes,76.86,75.33,7.33,0,2,1,0,55.6,82.2,4.1,1,1,1,Tier 1 (6.5 - 12 LPA),8.75
+STU1007,Female,23,Information Technology,Yes,73.22,65.75,6.07,1,2,2,0,36.0,70.9,2.7,2,1,0,Not Placed,0.0
+STU1008,Female,21,Electrical Engineering,No,83.73,86.7,8.11,0,2,2,1,82.7,91.5,2.7,0,1,1,Tier 1 (6.5 - 12 LPA),11.71
+STU1009,Female,22,Electrical Engineering,No,83.83,76.13,7.45,4,2,3,3,50.1,83.3,4.3,4,4,1,Dream Tier (12+ LPA),12.03
+STU1010,Male,21,Computer Science,No,79.35,74.03,7.58,0,0,4,0,69.1,83.2,3.7,0,2,1,Tier 1 (6.5 - 12 LPA),7.62
+STU1011,Female,22,Electrical Engineering,No,81.65,75.96,6.62,0,1,3,0,39.8,78.2,1.7,2,2,0,Not Placed,0.0
+STU1012,Female,22,Information Technology,Yes,73.88,62.22,9.32,2,0,3,1,81.4,88.9,2.7,1,0,1,Dream Tier (12+ LPA),12.49
+STU1013,Male,22,Information Technology,Yes,81.42,68.2,9.9,0,2,3,2,86.1,94.8,1.3,1,1,1,Dream Tier (12+ LPA),16.75
+STU1014,Male,21,Artificial Intelligence & Data Science,No,72.62,74.04,7.09,1,3,3,0,54.5,80.3,3.1,1,1,1,Tier 1 (6.5 - 12 LPA),9.62
+STU1015,Male,21,Civil Engineering,No,76.02,71.86,7.79,1,3,2,0,49.6,83.6,3.2,2,0,1,Tier 1 (6.5 - 12 LPA),11.9
+STU1016,Male,21,Computer Science,Yes,73.25,88.0,7.51,3,0,2,1,75.4,88.4,3.0,2,3,1,Tier 1 (6.5 - 12 LPA),10.46
+STU1017,Male,21,Information Technology,Yes,71.43,76.39,7.11,2,1,2,2,64.0,81.4,4.4,0,1,1,Tier 1 (6.5 - 12 LPA),6.97
+STU1018,Male,22,Artificial Intelligence & Data Science,No,69.11,83.4,6.48,2,1,3,0,45.9,80.4,3.7,0,0,0,Not Placed,0.0
+STU1019,Male,23,Mechanical Engineering,Yes,80.68,74.1,6.21,4,0,5,1,21.5,75.0,5.0,0,3,0,Not Placed,0.0
+STU1020,Female,22,Artificial Intelligence & Data Science,Yes,89.11,85.62,6.15,0,0,3,2,37.9,79.3,3.8,0,0,0,Not Placed,0.0
+STU1021,Male,22,Computer Science,No,87.71,78.37,7.85,0,1,4,0,78.8,86.6,3.8,0,2,1,Tier 1 (6.5 - 12 LPA),10.76
+STU1022,Male,24,Computer Science,No,63.43,74.15,6.83,0,4,1,0,59.6,78.8,3.6,1,2,1,Tier 1 (6.5 - 12 LPA),10.32
+STU1023,Male,22,Information Technology,No,88.89,73.85,5.0,2,1,3,1,41.9,67.7,3.2,0,3,0,Not Placed,0.0
